@@ -28,7 +28,7 @@
   </script>
   
   <style>
-    /* Include the Font Awesome library */
+   
     @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
   
     .job-list-container {
