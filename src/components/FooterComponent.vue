@@ -35,26 +35,6 @@
     margin: 0 auto;
   }
   
-  nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-  }
   
-  nav li {
-    margin: 0 10px;
-  }
-  
-  nav a {
-    text-decoration: none;
-    color: #333;
-    transition: color 0.2s ease-in-out;
-  }
-  
-  nav a:hover {
-    color: #0066cc;
-  }
   </style>
   
